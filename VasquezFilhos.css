@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: #fdfffc;
+}
+main {
+  flex: 1 0 auto;
+}
+
+.margem {
+  padding: 25px;
+}
+
+.texto {
+  text-align: justify;
+}
+.cor {
+  color: #d7845e
+}
+
+.paynesgrey{
+  background-color: #1e1e24 !important;
+}
+
+.charcoal{
+  background-color: #40090d !important;
+}
+
+.eq-img{
+  height: 400px !important;
+}
+
+.max-size
+{
+  width: calc(70%-2em) !important;
+  height: calc(70%-2em) !important;
+
+}
+
