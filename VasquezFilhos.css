@@ -1,8 +1,9 @@
 body {
   display: flex;
   min-height: 100vh;
-  flex-direction: column;
+  flex-direction: column;  
   background-color: #fdfffc;
+  background-image: url("img/brick-wall.png");
 }
 main {
   flex: 1 0 auto;
